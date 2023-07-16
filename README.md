@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/resultsummarycomponent-zZ_8G5Hnpm)
-- Live Site URL: (https://resault-summury-component.netlify.app/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/resultsummarycomponent-zZ_8G5Hnpm)
+- Live Site URL: [Live Site](https://resault-summury-component.netlify.app/)
 
 ## My process
 
