@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [](https://resault-summury-component.netlify.app/)
+- Solution URL: (https://your-solution-url.com)
+- Live Site URL: (https://resault-summury-component.netlify.app/)
 
 ## My process
 
