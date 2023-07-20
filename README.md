@@ -15,7 +15,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
+- Solution URL: []([https://your-solution-url.com](https://www.frontendmentor.io/solutions/resultsummarycomponent-zZ_8G5Hnpm))
 - Live Site URL: [](https://resault-summury-component.netlify.app/)
 
 ## My process
